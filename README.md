@@ -7,12 +7,12 @@ Android Developer </br>
 - Mail: <junpd019@hanmail.net>
 - github: https://github.com/KanghyunJeon/
 
- 
+ </br></br></br>
 
 
 ### 프로젝트 리스트
 
-
+</br>
 
 > 1. Application Name : <b> 달빛라이브 (Kotlin) </b> 
 
@@ -38,7 +38,7 @@ Android Developer </br>
 > > * 애니메이션 구현(WebP, Lottie)
 > > * Javascript interface구현 (Webview 네이티브소스연동)
 
-
+</br></br>
 
 > 2. Application Name : <b> 3Piks (Kotlin) </b> 
 
@@ -55,7 +55,7 @@ Android Developer </br>
 > * 개발업무
 > > * Javascript interface구현 (Web App 및 네이티브소스연동)
 
-
+</br></br>
 
 > 3. Application Name : <b> AiBitBip (Kotlin) </b> 
 
@@ -71,6 +71,38 @@ Android Developer </br>
 > * 개발업무
 > > * Custom Viewpager구현 (상하좌우 페이징 기능)
 > > * Custom PullToRefreshView 구현(안테나앤메이션효과)
+
+</br></br>
+
+> 4. Application Name : <b> TopGay (Kotlin, NodeJS) </b> 
+
+<div style="text-align : center;">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_1.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_2.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_3.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_4.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_5.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_6.webp" height="180">
+</div>
+
+> * 화상채팅 동성애자 채팅 매칭 서비스 (https://www.topgay.link)
+> * 사업 진행일: 2018.01 ~ 2018.12
+> * 개발업무
+> > * WebRTC를 이용하여 peer to peer 안드로이드 화상채팅 구성
+> > * Serverless Framework 로 AWS를 이용하여 백엔드 구성(Lambda, SNS, S3, Websocket, DynamoDB, Cognito, CloudFront, Route53)
+
+</br></br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
