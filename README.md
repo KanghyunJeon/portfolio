@@ -93,6 +93,22 @@ Android Developer </br>
 
 </br></br>
 
+> 5. Application Name : <b> 강제 무음모드 (Kotlin) </b> 
+
+<div style="text-align : center;">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/silentmode/silentmode_1.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/silentmode/silentmode_2.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/silentmode/silentmode_3.webp" height="180">
+</div>
+
+> * Android Hidden API 이용 순정카메라 무음화 서비스
+> * 사업 진행일: 2017.10 ~ 2018.12
+> * 개발업무
+> > * 자바 리플렉션을 이용한 히든 API 사용 카메라 무음화 기능구현
+> > * 홈화면 위젯기능구현, 무료, 유료, 광고버전등 다양한 버전 출시
+
+</br></br>
+
 
 
 
