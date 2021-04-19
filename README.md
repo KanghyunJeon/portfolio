@@ -43,7 +43,11 @@ Android Developer </br>
 > 2. Application Name : <b> 3Piks (Kotlin) </b> 
 
 <div style="text-align : center;">
- <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/aibitbip/aibitbip_1.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_1.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_2.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_3.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_4.webp" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_5.webp" height="180">
 </div>
 
 > * 비트코인 , 이더리움 가격예측 AirDrop hybrid web app 서비스
