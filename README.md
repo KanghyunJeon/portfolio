@@ -9,7 +9,13 @@ Android Developer </br>
 
  
 
-### 달빛라이브
+
+### 프로젝트 리스트
+
+
+
+> 1. Application Name : <b> 달빛라이브 (Kotlin) </b> 
+
 <div style="text-align : center;">
  <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%201.png" height="180">
  <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%202.png" height="180">
@@ -22,8 +28,6 @@ Android Developer </br>
  <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%209.png" height="180">
 </div>
 
-
-> 1. Application Name : 달빛라이브 (Kotlin)  
 > * A Live Radio Streaming Service (hybrid web app)
 > * 사업 진행일: 2019.11 ~ 현재
 > * 개발업무
