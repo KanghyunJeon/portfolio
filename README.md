@@ -5,7 +5,7 @@ Kanghyun Jeon(전강현)
  - RxJava, MVVM, AAC, DI, WebRtc, Rtmp, Wowza, OpenGL, AWS, Serverless, nodeJs <br />
 
 - Mail: <junpd019@hanmail.net>
-- github: https://github.com/yosigoon
+- github: https://github.com/KanghyunJeon/
 
 
  <br /> <br />
