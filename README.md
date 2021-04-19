@@ -1,11 +1,4 @@
-
-![전강현]<img src="https://user-images.githubusercontent.com/47520795/115171930-230b9b80-a0ff-11eb-8c8f-7e12650b84d2.jpg" height="380">
-
-
-
-
-![profile_img](./img/me.PNG)
-
+<img src="https://user-images.githubusercontent.com/47520795/115171930-230b9b80-a0ff-11eb-8c8f-7e12650b84d2.jpg" height="380">
 Kanghyun Jeon(전강현)
 -
 **Web Developer  <br />
