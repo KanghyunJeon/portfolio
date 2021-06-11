@@ -4,7 +4,7 @@
 Android Developer </br>
  - RxJava, MVVM, AAC, DI, WebRtc, Rtmp, Wowza, OpenGL, AWS, Serverless, nodeJs  
 
-- Mail: <junpd019@hanmail.net>
+- EMail: <junpd019@hanmail.net>
 - github: https://github.com/KanghyunJeon/
 
  </br></br></br>
@@ -114,7 +114,27 @@ Android Developer </br>
 
 </br></br>
 
-> 6. Application Name : <b> 글로벌프랜드 - SNS, 번역, 채팅, 펜팔 (Java) </b> 
+> 6. Application Name : <b> 오늘네일 (Java) </b> 
+
+<div style="text-align : center;">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/01.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/02.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/03.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/04.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/05.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/06.png" height="180">
+ <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/07.png" height="180">
+</div>
+
+> * 네일 관련 O2O서비스 개발
+> * 사업 진행일: 2017.07 ~ 2017.09
+> * 구글마켓 URL : 서비스종료
+> * 개발업무
+> > * 지도API 관련 기능 개발, Custom Recyclerview multi 아이템 사이즈 변경 기능 구현
+
+</br></br>
+
+> 7. Application Name : <b> 글로벌프랜드 - SNS, 번역, 채팅, 펜팔 (Java) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/globalfriend/globalfriend_1.webp" height="180">
