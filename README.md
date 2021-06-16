@@ -73,7 +73,7 @@ Android Developer </br>
 > * 구글마켓 URL : https://play.google.com/store/apps/details?id=com.a3piks.aisignal
 > * 개발업무
 > > * Custom Viewpager구현 (상하좌우 페이징 기능)
-> > * Custom PullToRefreshView 구현(안테나앤메이션효과)
+> > * Custom PullToRefreshView 구현(안테나 전파 애니메이션 효과)
 
 </br></br>
 
