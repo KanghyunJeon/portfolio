@@ -17,8 +17,14 @@ Android Developer </br>
 > 1. Application Name : <b> Tving (Java) </b> 
 
 <div style="text-align : center;">
- <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%201.png" height="180">
- <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%202.png" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_1.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_2.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_3.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_4.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_5.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_6.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_7.webp" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/tving/tving_store_8.webp" height="180">
 </div>
 
 > * CJ E&M 의 자회사인 Tving에서 운영하는 OTT 스트리밍 서비스 앱.
