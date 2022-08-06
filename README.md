@@ -2,7 +2,7 @@
 <b>Kanghyun Jeon(전강현)</b>
 </br>
 Android Developer </br>
- - RxJava, MVVM, AAC, DI, WebRtc, Rtmp, Wowza, OpenGL, AWS, Serverless, nodeJs  
+ - MVVM, Clean Architecture, AAC, DI, Coroutine, RxJava, ExoPlayer, WebRtc, Rtmp, Wowza, OpenGL, AWS, Serverless, nodeJs  
 
 - EMail: <junpd019@hanmail.net>
 - github: https://github.com/KanghyunJeon/
@@ -31,12 +31,11 @@ Android Developer </br>
 > * 사업 진행일: 2021.09 ~ 현재
 > * 구글마켓 URL : https://play.google.com/store/apps/details?id=net.cj.cjhv.gs.tving
 > * 개발업무
-> > * ㅇㄴㅁㅇㄴㅁ운ㅇㄴ머온머ㅏ온머ㅏ오너ㅏ오너마온머ㅏㅇ노머ㅏㅇ노머ㅏㅇㄴ모
-> > * 영상관련 OpenGL 쉐이더 효과 처리 및 개발
-> > * 영상관련 DeepAR 얼굴 보정 효과 처리 및 개발
-> > * 채팅방 기능 구현(소켓 클러스터)
-> > * 애니메이션 구현(WebP, Lottie)
-> > * Javascript interface구현 (Webview 네이티브소스연동)
+> > * 신규 추가 기능 구현
+> > * 플레이어 관련 레거시 소스 개선 작업
+> > * 안드로이드 버전 상승관련 대응작업
+> > * CS 관련 버그 수정
+> > * 서비스 요구사항 및 개편 사항들 대응
 
 </br></br>
 
