@@ -14,7 +14,27 @@ Android Developer </br>
 
 </br>
 
-> 1. Application Name : <b> 달빛라이브 (Kotlin) </b> 
+> 1. Application Name : <b> Tving (Java) </b> 
+
+<div style="text-align : center;">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%201.png" height="180">
+ <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%202.png" height="180">
+</div>
+
+> * CJ E&M 의 자회사인 Tving에서 운영하는 OTT 스트리밍 서비스 앱.
+> * 사업 진행일: 2021.09 ~ 현재
+> * 구글마켓 URL : https://play.google.com/store/apps/details?id=net.cj.cjhv.gs.tving
+> * 개발업무
+> > * ㅇㄴㅁㅇㄴㅁ운ㅇㄴ머온머ㅏ온머ㅏ오너ㅏ오너마온머ㅏㅇ노머ㅏㅇ노머ㅏㅇㄴ모
+> > * 영상관련 OpenGL 쉐이더 효과 처리 및 개발
+> > * 영상관련 DeepAR 얼굴 보정 효과 처리 및 개발
+> > * 채팅방 기능 구현(소켓 클러스터)
+> > * 애니메이션 구현(WebP, Lottie)
+> > * Javascript interface구현 (Webview 네이티브소스연동)
+
+</br></br>
+
+> 2. Application Name : <b> 달빛라이브 (Kotlin) </b> 
 
 <div style="text-align : center;">
  <img src="https://github.com/KanghyunJeon/portfolio/blob/main/img/dalbitlive/%EB%8C%80%EC%A7%80%201.png" height="180">
@@ -29,7 +49,7 @@ Android Developer </br>
 </div>
 
 > * 라이브 라디오 방송 이 가능한 hybrid web app 서비스
-> * 사업 진행일: 2019.11 ~ 현재
+> * 사업 진행일: 2019.11 ~ 2021.05
 > * 구글마켓 URL : https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject
 > * 개발업무
 > > * DJ/Guset/Users 로 나뉘어 지는 음성 및 영상 streaming 서비스 기능 구현 WebRTC(AntMedia), RTMP(Wowza)
@@ -41,7 +61,7 @@ Android Developer </br>
 
 </br></br>
 
-> 2. Application Name : <b> 3Piks (Kotlin) </b> 
+> 3. Application Name : <b> 3Piks (Kotlin) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/3piks/3piks_1.webp" height="180">
@@ -59,7 +79,7 @@ Android Developer </br>
 
 </br></br>
 
-> 3. Application Name : <b> AiBitBip (Kotlin) </b> 
+> 4. Application Name : <b> AiBitBip (Kotlin) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/aibitbip/aibitbip_1.webp" height="180">
@@ -77,7 +97,7 @@ Android Developer </br>
 
 </br></br>
 
-> 4. Application Name : <b> TopGay (Kotlin, NodeJS) </b> 
+> 5. Application Name : <b> TopGay (Kotlin, NodeJS) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/topg/topg_1.webp" height="180">
@@ -97,7 +117,7 @@ Android Developer </br>
 
 </br></br>
 
-> 5. Application Name : <b> 강제 무음모드 (Kotlin) </b> 
+> 6. Application Name : <b> 강제 무음모드 (Kotlin) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/silentmode/silentmode_1.webp" height="180">
@@ -114,7 +134,7 @@ Android Developer </br>
 
 </br></br>
 
-> 6. Application Name : <b> 오늘네일 (Java) </b> 
+> 7. Application Name : <b> 오늘네일 (Java) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/todaynail/01.png" height="180">
@@ -134,7 +154,7 @@ Android Developer </br>
 
 </br></br>
 
-> 7. Application Name : <b> 글로벌프랜드 - SNS, 번역, 채팅, 펜팔 (Java) </b> 
+> 8. Application Name : <b> 글로벌프랜드 - SNS, 번역, 채팅, 펜팔 (Java) </b> 
 
 <div style="text-align : center;">
  <img src="https://raw.githubusercontent.com/KanghyunJeon/portfolio/main/img/globalfriend/globalfriend_1.webp" height="180">
